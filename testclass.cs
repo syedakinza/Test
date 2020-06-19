@@ -12,5 +12,9 @@ namespace ConsoleApp3
         {
 
         }
+        public void newM()
+        {
+
+        }
     }
 }
